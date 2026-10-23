@@ -1,0 +1,501 @@
+intern_id,feedback_text,rating,sentiment
+INT001,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT002,Some projects were interesting while others felt repetitive.,3,Neutral
+INT003,Unrealistic deadlines without proper technical support or resources.,2,Negative
+INT004,Did not receive any constructive feedback on my code or tasks.,2,Negative
+INT005,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT006,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT007,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT008,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT009,Did not receive any constructive feedback on my code or tasks.,2,Negative
+INT010,Did not receive any constructive feedback on my code or tasks.,1,Negative
+INT011,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT012,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT013,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT014,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT015,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT016,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT017,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT018,Outstanding learning culture and excellent guidance from senior developers.,4,Positive
+INT019,"Great collaborative environment, supportive managers, and engaging projects.",5,Positive
+INT020,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT021,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT022,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT023,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT024,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT025,Communication was extremely poor and project requirements kept changing abruptly.,1,Negative
+INT026,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT027,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT028,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT029,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT030,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT031,Some projects were interesting while others felt repetitive.,3,Neutral
+INT032,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT033,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT034,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT035,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT036,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT037,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT038,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT039,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT040,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT041,Very disorganized program with little to no training provided.,1,Negative
+INT042,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT043,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT044,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT045,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT046,Some projects were interesting while others felt repetitive.,3,Neutral
+INT047,Unrealistic deadlines without proper technical support or resources.,2,Negative
+INT048,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT049,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT050,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT051,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT052,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT053,Very disorganized program with little to no training provided.,1,Negative
+INT054,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT055,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT056,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT057,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT058,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT059,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT060,Outstanding learning culture and excellent guidance from senior developers.,5,Positive
+INT061,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT062,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT063,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT064,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT065,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT066,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT067,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT068,Very disorganized program with little to no training provided.,2,Negative
+INT069,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT070,Unrealistic deadlines without proper technical support or resources.,2,Negative
+INT071,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT072,Very disorganized program with little to no training provided.,1,Negative
+INT073,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT074,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT075,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT076,Felt isolated due to lack of team interaction and poor collaboration tools.,2,Negative
+INT077,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT078,Unrealistic deadlines without proper technical support or resources.,2,Negative
+INT079,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT080,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT081,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT082,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT083,Felt isolated due to lack of team interaction and poor collaboration tools.,2,Negative
+INT084,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT085,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT086,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT087,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT088,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT089,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT090,Did not receive any constructive feedback on my code or tasks.,2,Negative
+INT091,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT092,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT093,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT094,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT095,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT096,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT097,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT098,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT099,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT100,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT101,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT102,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT103,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT104,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT105,"Great collaborative environment, supportive managers, and engaging projects.",5,Positive
+INT106,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT107,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT108,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT109,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT110,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT111,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT112,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT113,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT114,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT115,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT116,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT117,Very disorganized program with little to no training provided.,2,Negative
+INT118,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT119,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT120,Gained invaluable coding skills and felt truly valued as part of the team.,5,Positive
+INT121,Very disorganized program with little to no training provided.,2,Negative
+INT122,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT123,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT124,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT125,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT126,Communication was extremely poor and project requirements kept changing abruptly.,1,Negative
+INT127,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT128,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT129,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT130,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT131,Some projects were interesting while others felt repetitive.,3,Neutral
+INT132,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT133,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT134,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT135,Felt isolated due to lack of team interaction and poor collaboration tools.,2,Negative
+INT136,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT137,Did not receive any constructive feedback on my code or tasks.,1,Negative
+INT138,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT139,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT140,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT141,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT142,"Great collaborative environment, supportive managers, and engaging projects.",5,Positive
+INT143,Communication was extremely poor and project requirements kept changing abruptly.,1,Negative
+INT144,Felt isolated due to lack of team interaction and poor collaboration tools.,2,Negative
+INT145,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT146,Outstanding learning culture and excellent guidance from senior developers.,4,Positive
+INT147,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT148,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT149,Some projects were interesting while others felt repetitive.,3,Neutral
+INT150,Did not receive any constructive feedback on my code or tasks.,2,Negative
+INT151,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT152,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT153,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT154,Some projects were interesting while others felt repetitive.,3,Neutral
+INT155,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT156,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT157,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT158,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT159,Outstanding learning culture and excellent guidance from senior developers.,5,Positive
+INT160,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT161,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT162,Gained invaluable coding skills and felt truly valued as part of the team.,5,Positive
+INT163,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT164,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT165,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT166,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT167,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT168,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT169,Some projects were interesting while others felt repetitive.,3,Neutral
+INT170,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT171,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT172,Some projects were interesting while others felt repetitive.,3,Neutral
+INT173,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT174,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT175,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT176,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT177,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT178,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT179,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT180,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT181,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT182,"Great collaborative environment, supportive managers, and engaging projects.",5,Positive
+INT183,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT184,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT185,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT186,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT187,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT188,"Great collaborative environment, supportive managers, and engaging projects.",5,Positive
+INT189,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT190,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT191,Outstanding learning culture and excellent guidance from senior developers.,4,Positive
+INT192,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT193,Did not receive any constructive feedback on my code or tasks.,1,Negative
+INT194,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT195,Outstanding learning culture and excellent guidance from senior developers.,4,Positive
+INT196,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT197,Some projects were interesting while others felt repetitive.,3,Neutral
+INT198,"Great collaborative environment, supportive managers, and engaging projects.",5,Positive
+INT199,Outstanding learning culture and excellent guidance from senior developers.,5,Positive
+INT200,Did not receive any constructive feedback on my code or tasks.,2,Negative
+INT201,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT202,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT203,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT204,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT205,Outstanding learning culture and excellent guidance from senior developers.,5,Positive
+INT206,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT207,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT208,Some projects were interesting while others felt repetitive.,3,Neutral
+INT209,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT210,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT211,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT212,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT213,Some projects were interesting while others felt repetitive.,3,Neutral
+INT214,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT215,Some projects were interesting while others felt repetitive.,3,Neutral
+INT216,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT217,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT218,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT219,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT220,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT221,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT222,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT223,Did not receive any constructive feedback on my code or tasks.,2,Negative
+INT224,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT225,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT226,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT227,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT228,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT229,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT230,Some projects were interesting while others felt repetitive.,3,Neutral
+INT231,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT232,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT233,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT234,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT235,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT236,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT237,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT238,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT239,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT240,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT241,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT242,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT243,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT244,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT245,Some projects were interesting while others felt repetitive.,3,Neutral
+INT246,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT247,Some projects were interesting while others felt repetitive.,3,Neutral
+INT248,Did not receive any constructive feedback on my code or tasks.,2,Negative
+INT249,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT250,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT251,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT252,Outstanding learning culture and excellent guidance from senior developers.,5,Positive
+INT253,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT254,Some projects were interesting while others felt repetitive.,3,Neutral
+INT255,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT256,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT257,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT258,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT259,Very disorganized program with little to no training provided.,1,Negative
+INT260,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT261,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT262,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT263,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT264,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT265,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT266,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT267,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT268,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT269,Very disorganized program with little to no training provided.,1,Negative
+INT270,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT271,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT272,Some projects were interesting while others felt repetitive.,3,Neutral
+INT273,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT274,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT275,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT276,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT277,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT278,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT279,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT280,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT281,Very disorganized program with little to no training provided.,1,Negative
+INT282,Outstanding learning culture and excellent guidance from senior developers.,4,Positive
+INT283,Outstanding learning culture and excellent guidance from senior developers.,4,Positive
+INT284,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT285,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT286,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT287,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT288,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT289,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT290,Unrealistic deadlines without proper technical support or resources.,2,Negative
+INT291,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT292,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT293,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT294,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT295,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT296,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT297,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT298,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT299,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT300,Very disorganized program with little to no training provided.,1,Negative
+INT301,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT302,Outstanding learning culture and excellent guidance from senior developers.,4,Positive
+INT303,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT304,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT305,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT306,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT307,Very disorganized program with little to no training provided.,2,Negative
+INT308,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT309,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT310,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT311,Some projects were interesting while others felt repetitive.,3,Neutral
+INT312,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT313,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT314,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT315,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT316,Communication was extremely poor and project requirements kept changing abruptly.,1,Negative
+INT317,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT318,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT319,Very disorganized program with little to no training provided.,2,Negative
+INT320,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT321,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT322,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT323,Communication was extremely poor and project requirements kept changing abruptly.,1,Negative
+INT324,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT325,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT326,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT327,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT328,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT329,Did not receive any constructive feedback on my code or tasks.,2,Negative
+INT330,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT331,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT332,Communication was extremely poor and project requirements kept changing abruptly.,1,Negative
+INT333,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT334,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT335,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT336,The tasks were challenging yet rewarding. I had a wonderful experience here.,5,Positive
+INT337,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT338,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT339,Some projects were interesting while others felt repetitive.,3,Neutral
+INT340,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT341,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT342,Very disorganized program with little to no training provided.,2,Negative
+INT343,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT344,Very disorganized program with little to no training provided.,1,Negative
+INT345,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT346,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT347,Unrealistic deadlines without proper technical support or resources.,2,Negative
+INT348,"Great collaborative environment, supportive managers, and engaging projects.",5,Positive
+INT349,"Great collaborative environment, supportive managers, and engaging projects.",5,Positive
+INT350,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT351,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT352,Some projects were interesting while others felt repetitive.,3,Neutral
+INT353,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT354,Outstanding learning culture and excellent guidance from senior developers.,4,Positive
+INT355,Unrealistic deadlines without proper technical support or resources.,2,Negative
+INT356,Did not receive any constructive feedback on my code or tasks.,1,Negative
+INT357,Gained invaluable coding skills and felt truly valued as part of the team.,5,Positive
+INT358,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT359,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT360,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT361,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT362,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT363,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT364,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT365,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT366,Outstanding learning culture and excellent guidance from senior developers.,5,Positive
+INT367,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT368,Some projects were interesting while others felt repetitive.,3,Neutral
+INT369,Unrealistic deadlines without proper technical support or resources.,2,Negative
+INT370,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT371,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT372,Some projects were interesting while others felt repetitive.,3,Neutral
+INT373,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT374,Felt isolated due to lack of team interaction and poor collaboration tools.,2,Negative
+INT375,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT376,Communication was extremely poor and project requirements kept changing abruptly.,1,Negative
+INT377,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT378,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT379,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT380,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT381,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT382,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT383,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT384,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT385,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT386,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT387,Unrealistic deadlines without proper technical support or resources.,1,Negative
+INT388,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT389,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT390,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT391,Felt isolated due to lack of team interaction and poor collaboration tools.,2,Negative
+INT392,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT393,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT394,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT395,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT396,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT397,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT398,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT399,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT400,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT401,Gained invaluable coding skills and felt truly valued as part of the team.,5,Positive
+INT402,Very disorganized program with little to no training provided.,2,Negative
+INT403,Gained invaluable coding skills and felt truly valued as part of the team.,5,Positive
+INT404,Unrealistic deadlines without proper technical support or resources.,2,Negative
+INT405,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT406,Very disorganized program with little to no training provided.,2,Negative
+INT407,Some projects were interesting while others felt repetitive.,3,Neutral
+INT408,Gained invaluable coding skills and felt truly valued as part of the team.,5,Positive
+INT409,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT410,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT411,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT412,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT413,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT414,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT415,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT416,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT417,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT418,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT419,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT420,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT421,Some projects were interesting while others felt repetitive.,3,Neutral
+INT422,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT423,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT424,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT425,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT426,Felt isolated due to lack of team interaction and poor collaboration tools.,2,Negative
+INT427,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT428,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT429,Disappointing experience with minimal learning opportunities provided.,1,Negative
+INT430,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT431,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT432,Some projects were interesting while others felt repetitive.,3,Neutral
+INT433,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT434,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT435,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT436,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT437,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT438,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT439,Did not receive any constructive feedback on my code or tasks.,2,Negative
+INT440,Gained invaluable coding skills and felt truly valued as part of the team.,4,Positive
+INT441,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT442,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT443,The mentorship program was fantastic and I learned so much about software engineering.,5,Positive
+INT444,The mentorship program was fantastic and I learned so much about software engineering.,4,Positive
+INT445,Amazing internship experience! The tech stack exposure was top-notch.,5,Positive
+INT446,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT447,Did not receive any constructive feedback on my code or tasks.,1,Negative
+INT448,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT449,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT450,The workload was unstructured and expectations were completely unclear.,2,Negative
+INT451,Very disorganized program with little to no training provided.,1,Negative
+INT452,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT453,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT454,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT455,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT456,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT457,Amazing internship experience! The tech stack exposure was top-notch.,4,Positive
+INT458,Communication was extremely poor and project requirements kept changing abruptly.,1,Negative
+INT459,"Great collaborative environment, supportive managers, and engaging projects.",4,Positive
+INT460,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT461,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT462,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT463,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT464,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT465,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT466,Felt isolated due to lack of team interaction and poor collaboration tools.,2,Negative
+INT467,Did not receive any constructive feedback on my code or tasks.,1,Negative
+INT468,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT469,"Mediocre experience, met expectations but nothing exceptional.",3,Neutral
+INT470,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT471,Communication was extremely poor and project requirements kept changing abruptly.,2,Negative
+INT472,Gained invaluable coding skills and felt truly valued as part of the team.,5,Positive
+INT473,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT474,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT475,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT476,I loved the hands-on experience with real-world machine learning pipelines.,5,Positive
+INT477,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT478,"Very structured internship with clear goals, timely feedback, and wonderful peers.",4,Positive
+INT479,"Decent exposure to tools, though communication could be improved.",3,Neutral
+INT480,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT481,The tasks were challenging yet rewarding. I had a wonderful experience here.,4,Positive
+INT482,Gained invaluable coding skills and felt truly valued as part of the team.,5,Positive
+INT483,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT484,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT485,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT486,I loved the hands-on experience with real-world machine learning pipelines.,4,Positive
+INT487,Lack of proper onboarding and minimal guidance from mentors throughout.,2,Negative
+INT488,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT489,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT490,Some projects were interesting while others felt repetitive.,3,Neutral
+INT491,Disappointing experience with minimal learning opportunities provided.,2,Negative
+INT492,Felt isolated due to lack of team interaction and poor collaboration tools.,1,Negative
+INT493,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT494,"The internship was okay, some good moments but overall quite average.",3,Neutral
+INT495,"Very structured internship with clear goals, timely feedback, and wonderful peers.",5,Positive
+INT496,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT497,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
+INT498,Standard internship program with normal tasks and standard meetings.,3,Neutral
+INT499,The workload was unstructured and expectations were completely unclear.,1,Negative
+INT500,Lack of proper onboarding and minimal guidance from mentors throughout.,1,Negative
